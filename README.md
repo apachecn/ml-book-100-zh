@@ -1,5 +1,7 @@
 # 百页机器学习小书
 
+![](cover.jpg)
+
 > 原书：[The Hundred-Page Machine Learning Book](http://themlbook.com/)
 > 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
