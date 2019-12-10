@@ -4,6 +4,7 @@
 
 原文：
 
++   [PDF](http://themlbook.com/wiki/doku.php)
 +   [HTML](https://github.com/apachecn/ml-book-100-zh/blob/master/doc/en.html)
 
 负责人：
