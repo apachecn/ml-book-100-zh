@@ -2,7 +2,7 @@
 
 ![](cover.jpg)
 
-> 原书：[The Hundred-Page Machine Learning Book](http://themlbook.com/)
+> 原书：[The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
